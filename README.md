@@ -8,7 +8,8 @@ dependency hygiene and small bug fixes, and I build small tools that make contri
 - **[contrib-check](https://github.com/MFTTT11/contrib-check)** — check whether an open-source issue,
   especially one with a bounty, is still worth your time before you start: competing pull requests,
   recent claims, "already done" remarks from maintainers, bounty labels and repository activity.
-  Python, standard library only.
+  `contrib-check scan <org>` finds and ranks every open bounty issue of an organization.
+  Python, standard library only; tested on Python 3.10–3.13 in CI.
 
 #### Pull requests
 
