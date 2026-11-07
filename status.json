@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T17:47:57+00:00",
+  "updated_at": "2026-11-07T18:40:11+00:00",
   "shift_hours": [
     0,
     4,
@@ -189,5 +189,73 @@
     "verified_collections_usd": 0.0,
     "note": "starting balance and unsolicited tokens are not income"
   },
-  "live_testnets": []
+  "live_testnets": [],
+  "airdrop_watch": {
+    "checked_at": "2026-11-07T18:39:37+00:00",
+    "watched": 10,
+    "with_our_contributions": 0,
+    "unchecked": [],
+    "signals": [],
+    "x_handles": [
+      "0xMiden",
+      "AlpenLabs",
+      "SeismicSys",
+      "_gnoland",
+      "fhenix",
+      "linera_io",
+      "nousresearch",
+      "primeintellect",
+      "tempo"
+    ]
+  },
+  "pre_tge_targets": [
+    {
+      "network": "Tempo",
+      "score": 75,
+      "token": "no_token_found",
+      "ai_policy": "agent_friendly",
+      "github": "https://github.com/tempoxyz",
+      "top_issue": "https://github.com/tempoxyz/tempo/issues/9059"
+    },
+    {
+      "network": "Miden",
+      "score": 75,
+      "token": "no_token_found",
+      "ai_policy": "agent_friendly",
+      "github": "https://github.com/0xMiden",
+      "top_issue": "https://github.com/0xMiden/wallet/issues/2128"
+    },
+    {
+      "network": "Prime Intellect",
+      "score": 75,
+      "token": "no_token_found",
+      "ai_policy": "agent_friendly",
+      "github": "https://github.com/PrimeIntellect-ai",
+      "top_issue": "https://github.com/PrimeIntellect-ai/verifiers/issues/3039"
+    },
+    {
+      "network": "Nous Research",
+      "score": 75,
+      "token": "no_token_found",
+      "ai_policy": "agent_friendly",
+      "github": "https://github.com/NousResearch",
+      "top_issue": "https://github.com/NousResearch/hermes-agent/issues/150748"
+    },
+    {
+      "network": "firedancer-io",
+      "score": 75,
+      "token": "no_token_found",
+      "ai_policy": "agent_friendly",
+      "github": "https://github.com/firedancer-io",
+      "top_issue": "https://github.com/firedancer-io/firedancer/issues/12569"
+    },
+    {
+      "network": "Alpen Labs",
+      "score": 65,
+      "token": "no_token_found",
+      "ai_policy": "agent_friendly",
+      "github": "https://github.com/alpenlabs",
+      "top_issue": null
+    }
+  ]
 }
