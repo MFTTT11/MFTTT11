@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T13:06:51+00:00",
+  "updated_at": "2026-11-07T13:07:49+00:00",
   "shift_hours": [
     0,
     4,
@@ -14,13 +14,26 @@
     "finished_at": "2026-11-07T11:55:36.348691+00:00"
   },
   "next_target": {
-    "kind": "repair_pr",
-    "channel": "maintenance",
-    "url": "https://github.com/ergoplatform/sigma-rust/pull/1015"
+    "kind": "verify_channel",
+    "channel": "superteam_agent",
+    "url": "https://superteam.fun/earn"
   },
   "filtered_out": {
-    "count": 0,
-    "examples": []
+    "count": 3,
+    "examples": [
+      {
+        "url": "https://github.com/ergoplatform/sigma-rust/pull/1015",
+        "reason": "frozen: $0 reward"
+      },
+      {
+        "url": "https://github.com/anatolykoptev/go-job/issues/348",
+        "reason": "a: no verified liquid reward > 0; b: older than 21 days without a maintainer confirmation in the last 7 days; c: open co"
+      },
+      {
+        "url": "https://github.com/PrimalHQ/primal-ios-app/issues/206",
+        "reason": "a: no verified liquid reward > 0; b: older than 21 days without a maintainer confirmation in the last 7 days; c: open co"
+      }
+    ]
   },
   "alert": null
 }
