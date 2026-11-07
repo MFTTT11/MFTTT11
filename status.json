@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T15:21:21+00:00",
+  "updated_at": "2026-11-07T15:23:23+00:00",
   "shift_hours": [
     0,
     4,
@@ -198,48 +198,5 @@
     "verified_collections_usd": 0.0,
     "note": "starting balance and unsolicited tokens are not income"
   },
-  "live_testnets": [
-    {
-      "project": "firedancer-io",
-      "funding": "potential",
-      "investors": [],
-      "incentive": "entrypoints]` in the configuration file to point at your first",
-      "portal": "https://docs.firedancer.io",
-      "faucet": null,
-      "repo": "https://github.com/firedancer-io/firedancer",
-      "evidence": {
-        "checked_at": "2026-11-07T15:20:59+00:00",
-        "portal_http": 200,
-        "faucet_http": null
-      },
-      "steps": [
-        "Yalnızca içi boş, yedek bir test cüzdanı kullan; ana kasa adreslerini ve ana cüzdanını asla kullanma. Use only an empty spare test wallet.",
-        "Read the official guide: https://docs.firedancer.io",
-        "Faucet: use only the one linked in the official guide",
-        "Never pay mainnet funds, bridge fees or for NFTs; never run closed installers; never sign with your main wallet.",
-        "Track only on-chain testnet activity; any reward is speculative and not income until received."
-      ]
-    },
-    {
-      "project": "BankrBot",
-      "funding": "potential",
-      "investors": [],
-      "incentive": "Stake-gated V2 mining with on-chain reward claims via Bankr",
-      "portal": "https://skills.bankr.bot/",
-      "faucet": null,
-      "repo": "https://github.com/BankrBot/skills",
-      "evidence": {
-        "checked_at": "2026-11-07T15:20:59+00:00",
-        "portal_http": 200,
-        "faucet_http": null
-      },
-      "steps": [
-        "Yalnızca içi boş, yedek bir test cüzdanı kullan; ana kasa adreslerini ve ana cüzdanını asla kullanma. Use only an empty spare test wallet.",
-        "Read the official guide: https://skills.bankr.bot/",
-        "Faucet: use only the one linked in the official guide",
-        "Never pay mainnet funds, bridge fees or for NFTs; never run closed installers; never sign with your main wallet.",
-        "Track only on-chain testnet activity; any reward is speculative and not income until received."
-      ]
-    }
-  ]
+  "live_testnets": []
 }
