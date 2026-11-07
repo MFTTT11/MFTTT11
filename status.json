@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T17:39:32+00:00",
+  "updated_at": "2026-11-07T17:47:57+00:00",
   "shift_hours": [
     0,
     4,
@@ -14,15 +14,28 @@
     "finished_at": "2026-11-07T17:19:19.214826+00:00"
   },
   "next_target": {
-    "kind": "user_submission",
-    "channel": "grant",
-    "url": null
+    "kind": "verify_channel",
+    "channel": "superteam_agent",
+    "url": "https://superteam.fun/earn"
   },
   "filtered_out": {
-    "count": 0,
-    "examples": []
+    "count": 3,
+    "examples": [
+      {
+        "url": "https://github.com/ergoplatform/sigma-rust/pull/1015",
+        "reason": "frozen: $0 reward"
+      },
+      {
+        "url": "https://github.com/anatolykoptev/go-job/issues/348",
+        "reason": "a: no verified liquid reward > 0; b: older than 21 days without a maintainer confirmation in the last 7 days; c: open co"
+      },
+      {
+        "url": "https://github.com/PrimalHQ/primal-ios-app/issues/206",
+        "reason": "a: no verified liquid reward > 0; b: older than 21 days without a maintainer confirmation in the last 7 days; c: open co"
+      }
+    ]
   },
-  "alert": "vault balance could not be read this shift",
+  "alert": "6 fresh contract change(s) queued for manual review (not findings)",
   "brain_mode": "fallback",
   "channel_health": [
     {
