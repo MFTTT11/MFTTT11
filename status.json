@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T13:07:49+00:00",
+  "updated_at": "2026-11-07T15:00:59+00:00",
   "shift_hours": [
     0,
     4,
@@ -35,5 +35,167 @@
       }
     ]
   },
-  "alert": null
+  "alert": null,
+  "brain_mode": "fallback",
+  "channel_health": [
+    {
+      "id": "superteam_listings",
+      "lane": "A",
+      "status": "ok",
+      "checked_at": "2026-11-07T14:51:19+00:00"
+    },
+    {
+      "id": "superteam_grants",
+      "lane": "D",
+      "status": "ok",
+      "checked_at": "2026-11-07T14:51:19+00:00"
+    },
+    {
+      "id": "superteam_agent_api",
+      "lane": "A",
+      "status": "ok",
+      "checked_at": "2026-11-07T14:51:19+00:00"
+    },
+    {
+      "id": "github_bounties_allowed_orgs",
+      "lane": "A",
+      "status": "ok",
+      "checked_at": "2026-11-07T14:51:19+00:00"
+    },
+    {
+      "id": "devpost",
+      "lane": "A",
+      "status": "ok",
+      "checked_at": "2026-11-07T14:51:19+00:00"
+    },
+    {
+      "id": "dorahacks",
+      "lane": "A",
+      "status": "blocked",
+      "checked_at": "2026-11-07T14:51:19+00:00"
+    },
+    {
+      "id": "algora",
+      "lane": "A",
+      "status": "closed",
+      "checked_at": "2026-11-07T14:51:19+00:00"
+    },
+    {
+      "id": "polar",
+      "lane": "A",
+      "status": "unknown",
+      "checked_at": "2026-11-07T14:51:19+00:00"
+    },
+    {
+      "id": "immunefi",
+      "lane": "B",
+      "status": "ok",
+      "checked_at": "2026-11-07T14:51:19+00:00"
+    },
+    {
+      "id": "sherlock",
+      "lane": "B",
+      "status": "ok",
+      "checked_at": "2026-11-07T14:51:19+00:00"
+    },
+    {
+      "id": "cantina",
+      "lane": "B",
+      "status": "ok",
+      "checked_at": "2026-11-07T14:51:19+00:00"
+    },
+    {
+      "id": "hackenproof",
+      "lane": "B",
+      "status": "partial",
+      "checked_at": "2026-11-07T14:51:19+00:00"
+    },
+    {
+      "id": "codehawks",
+      "lane": "B",
+      "status": "unknown",
+      "checked_at": "2026-11-07T14:51:19+00:00"
+    },
+    {
+      "id": "hats",
+      "lane": "B",
+      "status": "blocked",
+      "checked_at": "2026-11-07T14:51:19+00:00"
+    },
+    {
+      "id": "crunchdao",
+      "lane": "C",
+      "status": "blocked",
+      "checked_at": "2026-11-07T14:51:19+00:00"
+    },
+    {
+      "id": "arkham_dune_flipside",
+      "lane": "C",
+      "status": "blocked",
+      "checked_at": "2026-11-07T14:51:19+00:00"
+    },
+    {
+      "id": "solana_foundation_grants",
+      "lane": "D",
+      "status": "ok",
+      "checked_at": "2026-11-07T14:51:19+00:00"
+    },
+    {
+      "id": "stellar_scf",
+      "lane": "D",
+      "status": "partial",
+      "checked_at": "2026-11-07T14:51:19+00:00"
+    },
+    {
+      "id": "drips_retropgf",
+      "lane": "D",
+      "status": "partial",
+      "checked_at": "2026-11-07T14:51:19+00:00"
+    },
+    {
+      "id": "gitcoin",
+      "lane": "D",
+      "status": "dead",
+      "checked_at": "2026-11-07T14:51:19+00:00"
+    },
+    {
+      "id": "optimism_atlas",
+      "lane": "D",
+      "status": "moved",
+      "checked_at": "2026-11-07T14:51:19+00:00"
+    },
+    {
+      "id": "swap_partner_fees",
+      "lane": "E",
+      "status": "blocked",
+      "checked_at": "2026-11-07T14:51:19+00:00"
+    }
+  ],
+  "top_opportunities": [
+    {
+      "title": "Codegeist 2026 (Atlassian Forge hackathon)",
+      "reward": "up to 15000 + 1500 bonus",
+      "token": "USD",
+      "deadline": "2026-12-22T20:00:00Z",
+      "ai_permission": "not stated in rules read; check before submitting",
+      "url": "https://codegeist2026.devpost.com/",
+      "ready_pack": "ready"
+    },
+    {
+      "title": "Solana Foundation grant for wallet-guard (public good)",
+      "reward": "1500 (requested)",
+      "token": "USDC/USDG (per grant agreement",
+      "deadline": "rolling",
+      "ai_permission": "not stated",
+      "url": "https://solana.org/grants-funding",
+      "ready_pack": "ready"
+    }
+  ],
+  "accounting_summary": {
+    "delivered": 5,
+    "accepted_receivables": 0,
+    "verified_collections": 0,
+    "verified_collections_usd": 0.0,
+    "note": "starting balance and unsolicited tokens are not income"
+  }
 }
