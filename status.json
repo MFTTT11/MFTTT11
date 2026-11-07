@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T17:20:28+00:00",
+  "updated_at": "2026-11-07T17:39:32+00:00",
   "shift_hours": [
     0,
     4,
@@ -166,15 +166,6 @@
       "deadline": "2026-12-22T20:00:00Z",
       "ai_permission": "not stated in rules read; check before submitting",
       "url": "https://codegeist2026.devpost.com/",
-      "ready_pack": "ready"
-    },
-    {
-      "title": "Solana Foundation grant for wallet-guard (public good)",
-      "reward": "1500 (requested)",
-      "token": "USDC/USDG (per grant agreement",
-      "deadline": "rolling",
-      "ai_permission": "not stated",
-      "url": "https://solana.org/grants-funding",
       "ready_pack": "ready"
     }
   ],
