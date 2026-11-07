@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T19:23:21+00:00",
+  "updated_at": "2026-11-07T23:23:00+00:00",
   "shift_hours": [
     0,
     4,
@@ -35,7 +35,7 @@
       }
     ]
   },
-  "alert": "6 fresh contract change(s) queued for manual review (not findings)",
+  "alert": "8 fresh contract change(s) queued for manual review (not findings)",
   "brain_mode": "fallback",
   "channel_health": [
     {
