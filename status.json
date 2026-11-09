@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T05:34:06+00:00",
+  "updated_at": "2026-11-09T06:49:36+00:00",
   "shift_hours": [
     0,
     4,
@@ -26,11 +26,11 @@
         "reason": "frozen: $0 reward"
       },
       {
-        "url": "https://github.com/anatolykoptev/go-job/issues/348",
+        "url": "https://github.com/PrimalHQ/primal-web-app/issues/133",
         "reason": "a: no verified liquid reward > 0; b: older than 21 days without a maintainer confirmation in the last 7 days; c: open co"
       },
       {
-        "url": "https://github.com/PrimalHQ/primal-ios-app/issues/206",
+        "url": "https://github.com/anatolykoptev/go-job/issues/348",
         "reason": "a: no verified liquid reward > 0; b: older than 21 days without a maintainer confirmation in the last 7 days; c: open co"
       }
     ]
