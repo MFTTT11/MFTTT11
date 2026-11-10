@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T13:47:12+00:00",
+  "updated_at": "2026-11-10T21:31:24+00:00",
   "shift_hours": [
     0,
     4,
@@ -9,9 +9,9 @@
     20
   ],
   "last_action": {
-    "kind": "weekly",
+    "kind": "daily",
     "status": "ok",
-    "finished_at": "2026-11-09T16:54:56.098966+00:00"
+    "finished_at": "2026-11-10T13:46:53.499527+00:00"
   },
   "next_target": {
     "kind": "verify_channel",
@@ -191,7 +191,7 @@
   },
   "live_testnets": [],
   "airdrop_watch": {
-    "checked_at": "2026-11-10T11:16:14+00:00",
+    "checked_at": "2026-11-10T21:30:21+00:00",
     "watched": 13,
     "with_our_contributions": 3,
     "unchecked": [],
@@ -225,7 +225,7 @@
       "token": "no_token_found",
       "ai_policy": "agent_friendly",
       "github": "https://github.com/0xMiden",
-      "top_issue": "https://github.com/0xMiden/wallet/issues/2119"
+      "top_issue": "https://github.com/0xMiden/wallet/issues/2146"
     },
     {
       "network": "Prime Intellect",
@@ -241,7 +241,7 @@
       "token": "no_token_found",
       "ai_policy": "agent_friendly",
       "github": "https://github.com/NousResearch",
-      "top_issue": "https://github.com/NousResearch/hermes-agent/issues/152519"
+      "top_issue": "https://github.com/NousResearch/hermes-agent/issues/152922"
     },
     {
       "network": "Alpen Labs",
