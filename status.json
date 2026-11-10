@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T02:47:33+00:00",
+  "updated_at": "2026-11-10T11:17:12+00:00",
   "shift_hours": [
     0,
     4,
@@ -191,7 +191,7 @@
   },
   "live_testnets": [],
   "airdrop_watch": {
-    "checked_at": "2026-11-09T23:59:35+00:00",
+    "checked_at": "2026-11-10T11:16:14+00:00",
     "watched": 13,
     "with_our_contributions": 3,
     "unchecked": [],
@@ -241,7 +241,7 @@
       "token": "no_token_found",
       "ai_policy": "agent_friendly",
       "github": "https://github.com/NousResearch",
-      "top_issue": "https://github.com/NousResearch/hermes-agent/issues/152202"
+      "top_issue": "https://github.com/NousResearch/hermes-agent/issues/152519"
     },
     {
       "network": "Alpen Labs",
