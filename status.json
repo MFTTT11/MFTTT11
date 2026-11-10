@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T18:55:23+00:00",
+  "updated_at": "2026-11-10T00:00:31+00:00",
   "shift_hours": [
     0,
     4,
@@ -191,7 +191,7 @@
   },
   "live_testnets": [],
   "airdrop_watch": {
-    "checked_at": "2026-11-09T05:33:04+00:00",
+    "checked_at": "2026-11-09T23:59:35+00:00",
     "watched": 13,
     "with_our_contributions": 3,
     "unchecked": [],
@@ -217,7 +217,7 @@
       "token": "no_token_found",
       "ai_policy": "agent_friendly",
       "github": "https://github.com/tempoxyz",
-      "top_issue": "https://github.com/tempoxyz/tempo/issues/9063"
+      "top_issue": "https://github.com/tempoxyz/tempo/issues/9093"
     },
     {
       "network": "Miden",
@@ -233,7 +233,7 @@
       "token": "no_token_found",
       "ai_policy": "agent_friendly",
       "github": "https://github.com/PrimeIntellect-ai",
-      "top_issue": "https://github.com/PrimeIntellect-ai/verifiers/issues/3039"
+      "top_issue": "https://github.com/PrimeIntellect-ai/prime-rl/issues/4441"
     },
     {
       "network": "Nous Research",
@@ -241,7 +241,7 @@
       "token": "no_token_found",
       "ai_policy": "agent_friendly",
       "github": "https://github.com/NousResearch",
-      "top_issue": "https://github.com/NousResearch/hermes-agent/issues/151666"
+      "top_issue": "https://github.com/NousResearch/hermes-agent/issues/152202"
     },
     {
       "network": "Alpen Labs",
