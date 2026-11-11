@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T17:10:15+00:00",
+  "updated_at": "2026-11-11T22:07:18+00:00",
   "shift_hours": [
     0,
     4,
@@ -191,7 +191,7 @@
   },
   "live_testnets": [],
   "airdrop_watch": {
-    "checked_at": "2026-11-11T11:01:07+00:00",
+    "checked_at": "2026-11-11T22:06:33+00:00",
     "watched": 13,
     "with_our_contributions": 3,
     "unchecked": [],
@@ -225,7 +225,7 @@
       "token": "no_token_found",
       "ai_policy": "agent_friendly",
       "github": "https://github.com/0xMiden",
-      "top_issue": "https://github.com/0xMiden/wallet/issues/2146"
+      "top_issue": "https://github.com/0xMiden/miden-vm/issues/4103"
     },
     {
       "network": "Prime Intellect",
@@ -237,11 +237,11 @@
     },
     {
       "network": "Nous Research",
-      "score": 70,
+      "score": 75,
       "token": "no_token_found",
-      "ai_policy": "not_stated",
+      "ai_policy": "agent_friendly",
       "github": "https://github.com/NousResearch",
-      "top_issue": "https://github.com/NousResearch/hermes-agent/issues/153394"
+      "top_issue": "https://github.com/NousResearch/hermes-agent/issues/154023"
     },
     {
       "network": "Alpen Labs",
