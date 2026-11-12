@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T20:08:24+00:00",
+  "updated_at": "2026-11-12T22:05:00+00:00",
   "shift_hours": [
     0,
     4,
@@ -191,7 +191,7 @@
   },
   "live_testnets": [],
   "airdrop_watch": {
-    "checked_at": "2026-11-12T11:09:30+00:00",
+    "checked_at": "2026-11-12T22:03:16+00:00",
     "watched": 13,
     "with_our_contributions": 3,
     "unchecked": [],
@@ -225,7 +225,7 @@
       "token": "no_token_found",
       "ai_policy": "agent_friendly",
       "github": "https://github.com/PrimeIntellect-ai",
-      "top_issue": "https://github.com/PrimeIntellect-ai/prime-rl/issues/4441"
+      "top_issue": "https://github.com/PrimeIntellect-ai/prime-agent/issues/3314"
     },
     {
       "network": "Nous Research",
@@ -233,7 +233,7 @@
       "token": "no_token_found",
       "ai_policy": "agent_friendly",
       "github": "https://github.com/NousResearch",
-      "top_issue": "https://github.com/NousResearch/hermes-agent/issues/154336"
+      "top_issue": "https://github.com/NousResearch/hermes-agent/issues/154699"
     },
     {
       "network": "Miden",
@@ -245,11 +245,11 @@
     },
     {
       "network": "Alpen Labs",
-      "score": 65,
+      "score": 67,
       "token": "no_token_found",
       "ai_policy": "agent_friendly",
       "github": "https://github.com/alpenlabs",
-      "top_issue": null
+      "top_issue": "https://github.com/alpenlabs/asm/issues/318"
     },
     {
       "network": "Fhenix",
