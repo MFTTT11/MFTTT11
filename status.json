@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T00:55:57+00:00",
+  "updated_at": "2026-11-14T10:27:23+00:00",
   "shift_hours": [
     0,
     4,
@@ -191,7 +191,7 @@
   },
   "live_testnets": [],
   "airdrop_watch": {
-    "checked_at": "2026-11-13T21:37:35+00:00",
+    "checked_at": "2026-11-14T10:25:47+00:00",
     "watched": 13,
     "with_our_contributions": 3,
     "unchecked": [],
@@ -220,6 +220,14 @@
       "top_issue": "https://github.com/tempoxyz/tempo/issues/9093"
     },
     {
+      "network": "Miden",
+      "score": 75,
+      "token": "no_token_found",
+      "ai_policy": "agent_friendly",
+      "github": "https://github.com/0xMiden",
+      "top_issue": "https://github.com/0xMiden/miden-vm/issues/4103"
+    },
+    {
       "network": "Prime Intellect",
       "score": 75,
       "token": "no_token_found",
@@ -229,19 +237,11 @@
     },
     {
       "network": "Nous Research",
-      "score": 75,
+      "score": 73,
       "token": "no_token_found",
       "ai_policy": "agent_friendly",
       "github": "https://github.com/NousResearch",
-      "top_issue": "https://github.com/NousResearch/hermes-agent/issues/155197"
-    },
-    {
-      "network": "Miden",
-      "score": 70,
-      "token": "no_token_found",
-      "ai_policy": "not_stated",
-      "github": "https://github.com/0xMiden",
-      "top_issue": "https://github.com/0xMiden/miden-vm/issues/4103"
+      "top_issue": "https://github.com/NousResearch/hermes-agent/issues/155605"
     },
     {
       "network": "Fhenix",
