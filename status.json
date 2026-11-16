@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T18:41:37+00:00",
+  "updated_at": "2026-11-16T22:14:38+00:00",
   "shift_hours": [
     0,
     4,
@@ -9,9 +9,9 @@
     20
   ],
   "last_action": {
-    "kind": "weekly",
+    "kind": "evaluate",
     "status": "ok",
-    "finished_at": "2026-11-16T16:29:30.469616+00:00"
+    "finished_at": "2026-11-16T22:14:36.646922+00:00"
   },
   "next_target": {
     "kind": "verify_channel",
@@ -26,12 +26,12 @@
         "reason": "frozen: $0 reward"
       },
       {
-        "url": "https://github.com/CodyTseng/jumble/issues/112",
-        "reason": "a: no verified liquid reward > 0; b: older than 21 days without a maintainer confirmation in the last 7 days; c: open co"
+        "url": "https://github.com/PrimalHQ/primal-ios-app/issues/206",
+        "reason": "b: older than 21 days without a maintainer confirmation in the last 7 days; c: open competing PR (or unknown)"
       },
       {
-        "url": "https://github.com/CodyTseng/jumble/issues/157",
-        "reason": "a: no verified liquid reward > 0; b: older than 21 days without a maintainer confirmation in the last 7 days; c: open co"
+        "url": "https://github.com/PrimalHQ/primal-android-app/issues/1055",
+        "reason": "b: older than 21 days without a maintainer confirmation in the last 7 days; c: open competing PR (or unknown)"
       },
       {
         "url": "https://github.com/anatolykoptev/go-job/issues/348",
