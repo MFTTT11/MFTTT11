@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T22:14:38+00:00",
+  "updated_at": "2026-11-16T22:22:52+00:00",
   "shift_hours": [
     0,
     4,
@@ -11,7 +11,7 @@
   "last_action": {
     "kind": "evaluate",
     "status": "ok",
-    "finished_at": "2026-11-16T22:14:36.646922+00:00"
+    "finished_at": "2026-11-16T22:22:50.816036+00:00"
   },
   "next_target": {
     "kind": "verify_channel",
@@ -19,7 +19,7 @@
     "url": "https://superteam.fun/earn"
   },
   "filtered_out": {
-    "count": 5,
+    "count": 11,
     "examples": [
       {
         "url": "https://github.com/ergoplatform/sigma-rust/pull/1015",
@@ -34,12 +34,12 @@
         "reason": "b: older than 21 days without a maintainer confirmation in the last 7 days; c: open competing PR (or unknown)"
       },
       {
-        "url": "https://github.com/anatolykoptev/go-job/issues/348",
-        "reason": "a: no verified liquid reward > 0; b: older than 21 days without a maintainer confirmation in the last 7 days; c: open co"
+        "url": "https://github.com/PrimalHQ/primal-web-app/issues/133",
+        "reason": "b: older than 21 days without a maintainer confirmation in the last 7 days; c: open competing PR (or unknown); c: more t"
       },
       {
-        "url": "https://github.com/CodyTseng/jumble/issues/141",
-        "reason": "a: no verified liquid reward > 0; b: older than 21 days without a maintainer confirmation in the last 7 days"
+        "url": "https://github.com/microg/GmsCore/issues/580",
+        "reason": "b: older than 21 days without a maintainer confirmation in the last 7 days; c: open competing PR (or unknown)"
       }
     ]
   },
