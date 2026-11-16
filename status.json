@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T11:15:45+00:00",
+  "updated_at": "2026-11-16T13:18:59+00:00",
   "shift_hours": [
     0,
     4,
@@ -9,9 +9,9 @@
     20
   ],
   "last_action": {
-    "kind": "daily",
+    "kind": "evaluate",
     "status": "ok",
-    "finished_at": "2026-11-15T12:57:34.260362+00:00"
+    "finished_at": "2026-11-16T13:01:29.642086+00:00"
   },
   "next_target": {
     "kind": "verify_channel",
@@ -19,7 +19,7 @@
     "url": "https://superteam.fun/earn"
   },
   "filtered_out": {
-    "count": 3,
+    "count": 8,
     "examples": [
       {
         "url": "https://github.com/ergoplatform/sigma-rust/pull/1015",
@@ -32,6 +32,14 @@
       {
         "url": "https://github.com/PrimalHQ/primal-android-app/issues/1055",
         "reason": "a: no verified liquid reward > 0; b: older than 21 days without a maintainer confirmation in the last 7 days; c: open co"
+      },
+      {
+        "url": "https://github.com/CodyTseng/jumble/issues/112",
+        "reason": "a: no verified liquid reward > 0; b: older than 21 days without a maintainer confirmation in the last 7 days; c: open co"
+      },
+      {
+        "url": "https://github.com/microg/GmsCore/issues/2843",
+        "reason": "a: no verified liquid reward > 0; b: older than 21 days without a maintainer confirmation in the last 7 days; c: open co"
       }
     ]
   },
@@ -42,13 +50,13 @@
       "id": "superteam_listings",
       "lane": "A",
       "status": "ok",
-      "checked_at": "2026-11-12T19:53:00+00:00"
+      "checked_at": "2026-11-16T13:00:00+00:00"
     },
     {
       "id": "superteam_grants",
       "lane": "D",
       "status": "ok",
-      "checked_at": "2026-11-12T19:53:00+00:00"
+      "checked_at": "2026-11-16T13:00:00+00:00"
     },
     {
       "id": "superteam_agent_api",
@@ -60,13 +68,13 @@
       "id": "github_bounties_allowed_orgs",
       "lane": "A",
       "status": "ok",
-      "checked_at": "2026-11-12T19:53:00+00:00"
+      "checked_at": "2026-11-16T13:00:00+00:00"
     },
     {
       "id": "devpost",
       "lane": "A",
       "status": "ok",
-      "checked_at": "2026-11-07T14:51:19+00:00"
+      "checked_at": "2026-11-16T13:00:00+00:00"
     },
     {
       "id": "dorahacks",
@@ -90,7 +98,7 @@
       "id": "immunefi",
       "lane": "B",
       "status": "ok",
-      "checked_at": "2026-11-07T14:51:19+00:00"
+      "checked_at": "2026-11-16T13:00:00+00:00"
     },
     {
       "id": "sherlock",
@@ -172,6 +180,15 @@
     }
   ],
   "top_opportunities": [
+    {
+      "title": "Reddit's Game of the Day Hackathon (Devvit Web)",
+      "reward": "15000 1st / 10x1000 (35000 USD pool)",
+      "token": "USD",
+      "deadline": "2026-12-09T02:00:00Z",
+      "ai_permission": "Check rules; disclose tools used",
+      "url": "https://redditgameofday2026.devpost.com/",
+      "ready_pack": "ready"
+    },
     {
       "title": "Codegeist 2026 (Atlassian Forge hackathon)",
       "reward": "up to 15000 + 1500 bonus",
