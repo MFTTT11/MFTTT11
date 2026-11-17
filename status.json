@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T13:39:38+00:00",
+  "updated_at": "2026-11-17T14:06:47+00:00",
   "shift_hours": [
     0,
     4,
@@ -14,19 +14,19 @@
     "finished_at": "2026-11-17T05:07:03.567799+00:00"
   },
   "next_target": {
-    "kind": "wait",
-    "channel": "",
-    "url": null
+    "kind": "verify_channel",
+    "channel": "nokyc_bug_bounty",
+    "url": "https://github.com/defisaver/defisaver-v3-contracts"
   },
   "filtered_out": {
     "count": 14,
     "examples": [
       {
-        "url": "https://github.com/GoodDollar/GoodWeb3-Mono/pull/280",
+        "url": "https://github.com/ergoplatform/sigma-rust/pull/1015",
         "reason": "frozen: $0 reward"
       },
       {
-        "url": "https://github.com/ergoplatform/sigma-rust/pull/1015",
+        "url": "https://github.com/GoodDollar/GoodWeb3-Mono/pull/280",
         "reason": "frozen: $0 reward"
       },
       {
