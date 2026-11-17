@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T11:15:37+00:00",
+  "updated_at": "2026-11-17T11:32:54+00:00",
   "shift_hours": [
     0,
     4,
@@ -14,37 +14,37 @@
     "finished_at": "2026-11-17T05:07:03.567799+00:00"
   },
   "next_target": {
-    "kind": "verify_channel",
-    "channel": "superteam_agent",
-    "url": "https://superteam.fun/earn"
+    "kind": "pursue_target",
+    "channel": "funded_github_bounty",
+    "url": "https://github.com/PrimalHQ/primal-ios-app/issues/206"
   },
   "filtered_out": {
-    "count": 11,
+    "count": 14,
     "examples": [
       {
         "url": "https://github.com/ergoplatform/sigma-rust/pull/1015",
         "reason": "frozen: $0 reward"
       },
       {
+        "url": "https://github.com/GoodDollar/GoodWeb3-Mono/pull/280",
+        "reason": "frozen: $0 reward"
+      },
+      {
+        "url": "https://github.com/celo-org/buy-skill/pull/78",
+        "reason": "frozen: $0 reward"
+      },
+      {
+        "url": "https://github.com/ergoplatform/ergodocs/pull/741",
+        "reason": "frozen: $0 reward"
+      },
+      {
         "url": "https://github.com/PrimalHQ/primal-ios-app/issues/206",
-        "reason": "b: older than 21 days without a maintainer confirmation in the last 7 days; c: open competing PR (or unknown)"
-      },
-      {
-        "url": "https://github.com/PrimalHQ/primal-android-app/issues/1055",
-        "reason": "b: older than 21 days without a maintainer confirmation in the last 7 days; c: open competing PR (or unknown)"
-      },
-      {
-        "url": "https://github.com/PrimalHQ/primal-web-app/issues/133",
-        "reason": "b: older than 21 days without a maintainer confirmation in the last 7 days; c: open competing PR (or unknown); c: more t"
-      },
-      {
-        "url": "https://github.com/microg/GmsCore/issues/580",
         "reason": "b: older than 21 days without a maintainer confirmation in the last 7 days; c: open competing PR (or unknown)"
       }
     ]
   },
   "alert": null,
-  "brain_mode": "fallback",
+  "brain_mode": "llm",
   "channel_health": [
     {
       "id": "superteam_listings",
