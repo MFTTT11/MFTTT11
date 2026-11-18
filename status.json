@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T11:45:46+00:00",
+  "updated_at": "2026-11-18T13:59:06+00:00",
   "shift_hours": [
     0,
     4,
@@ -11,12 +11,12 @@
   "last_action": {
     "kind": "evaluate",
     "status": "ok",
-    "finished_at": "2026-11-17T23:53:35.636426+00:00"
+    "finished_at": "2026-11-18T13:59:04.318632+00:00"
   },
   "next_target": {
-    "kind": "pursue_target",
+    "kind": "verify_channel",
     "channel": "nokyc_bug_bounty",
-    "url": "https://github.com/lidofinance/core"
+    "url": "https://github.com/defisaver/defisaver-v3-contracts"
   },
   "filtered_out": {
     "count": 14,
