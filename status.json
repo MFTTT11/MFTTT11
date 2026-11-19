@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T23:08:56+00:00",
+  "updated_at": "2026-11-19T23:37:39+00:00",
   "shift_hours": [
     0,
     4,
@@ -9,14 +9,14 @@
     20
   ],
   "last_action": {
-    "kind": "daily",
+    "kind": "evaluate",
     "status": "ok",
-    "finished_at": "2026-11-19T14:41:19.537625+00:00"
+    "finished_at": "2026-11-19T23:37:37.677860+00:00"
   },
   "next_target": {
     "kind": "verify_channel",
-    "channel": "nokyc_bug_bounty",
-    "url": "https://github.com/defisaver/defisaver-v3-contracts"
+    "channel": "superteam_agent",
+    "url": "https://superteam.fun/earn"
   },
   "filtered_out": {
     "count": 14,
@@ -44,7 +44,7 @@
     ]
   },
   "alert": "10 fresh contract change(s) queued for manual review (not findings)",
-  "brain_mode": "llm",
+  "brain_mode": "fallback",
   "channel_health": [
     {
       "id": "superteam_listings",
