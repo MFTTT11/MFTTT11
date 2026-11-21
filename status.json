@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T13:30:19+00:00",
+  "updated_at": "2026-11-21T13:44:12+00:00",
   "shift_hours": [
     0,
     4,
@@ -9,9 +9,9 @@
     20
   ],
   "last_action": {
-    "kind": "evaluate",
+    "kind": "daily",
     "status": "ok",
-    "finished_at": "2026-11-21T13:30:17.757116+00:00"
+    "finished_at": "2026-11-21T13:42:19.161290+00:00"
   },
   "next_target": {
     "kind": "verify_channel",
