@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T04:01:16+00:00",
+  "updated_at": "2026-11-21T11:09:07+00:00",
   "shift_hours": [
     0,
     4,
@@ -208,7 +208,7 @@
   },
   "live_testnets": [],
   "airdrop_watch": {
-    "checked_at": "2026-11-20T22:27:59+00:00",
+    "checked_at": "2026-11-21T11:08:23+00:00",
     "watched": 13,
     "with_our_contributions": 3,
     "unchecked": [],
@@ -234,7 +234,7 @@
       "token": "no_token_found",
       "ai_policy": "agent_friendly",
       "github": "https://github.com/NousResearch",
-      "top_issue": "https://github.com/NousResearch/hermes-agent/issues/158384"
+      "top_issue": "https://github.com/NousResearch/hermes-agent/issues/158537"
     },
     {
       "network": "Miden",
